@@ -24,5 +24,5 @@
 
 ## VacationPy
 
-### Finding hotels in potential vacation locations across the world:
+### Hotels in potential cities for vacation in the world:
 ![](VacationPy/map.png)
