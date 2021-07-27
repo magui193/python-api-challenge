@@ -1,4 +1,6 @@
-## Python API Challenge
+# Python API Challenge
+
+## WeatherPy
 
 ### The temperature and the latitude have a different linear regression in the Northern Hemisphere and the Southern Hemisphere. For the Northern Hemisphere, the regression between latitude and temperature is negative, meaning that the greater the latitude, the temperature is going to be lower. However, the regression is positive in the southern hemisphere, showing that the temperature increases when the latitude increases.
 
@@ -17,3 +19,10 @@
 
 ![](WeatherPy/LatitudevsWindSpeed-NorthernHemisphere.png)
 ![](WeatherPy/LatitudevsWindSpeed-SouthernHemisphere.png)
+
+---
+
+## VacationPy
+
+### Finding hotels in potential vacation locations across the world:
+![](VacationPy/map.png)
